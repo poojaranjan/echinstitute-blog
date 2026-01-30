@@ -27,7 +27,7 @@ export function Footer() {
         </Button>
         <Button variant="outline" className="rounded-full">
           <Link 
-            href="https://github.com/ethcatherders/ech-blog" 
+            href="https://github.com/echinstitute/blog" 
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2"
@@ -41,7 +41,7 @@ export function Footer() {
         <div className="max-w-4xl mx-auto py-8 px-4">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex flex-col items-center md:items-start">
-              <Link href="https://www.ethcatherders.com" className="text-lg font-semibold hover:text-primary">
+              <Link href="https://www.echinstitute.org" className="text-lg font-semibold hover:text-primary">
                 Ethereum Cat Herders
               </Link>
               <p className="text-sm text-muted-foreground">
@@ -51,7 +51,7 @@ export function Footer() {
             
             <div className="flex items-center gap-4">
               <Link 
-                href="https://www.ethcatherders.com" 
+                href="https://www.echinstitute.org" 
                 className="text-muted-foreground hover:text-primary"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -59,7 +59,7 @@ export function Footer() {
                 <BsGlobe className="h-5 w-5" />
               </Link>
               <Link 
-                href="https://x.com/EthCatHerders" 
+                href="https://x.com/ECHInstitute" 
                 className="text-muted-foreground hover:text-primary"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -67,7 +67,7 @@ export function Footer() {
                 <BsTwitterX className="h-5 w-5" />
               </Link>
               <Link 
-                href="https://warpcast.com/ethcatherders" 
+                href="https://warpcast.com/echinstitute" 
                 className="text-muted-foreground hover:text-primary"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -88,7 +88,7 @@ export function Footer() {
                 </svg>
               </Link>
               <Link 
-                href="https://github.com/ethcatherders" 
+                href="https://github.com/echinstitute" 
                 className="text-muted-foreground hover:text-primary"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -96,7 +96,7 @@ export function Footer() {
                 <BsGithub className="h-5 w-5" />
               </Link>
               <Link 
-                href="https://www.youtube.com/@ethcatherders" 
+                href="https://www.youtube.com/@echinstitute" 
                 className="text-muted-foreground hover:text-primary"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -112,7 +112,7 @@ export function Footer() {
                 <BsReddit className="h-5 w-5" />
               </Link>
               <Link 
-                href="https://www.linkedin.com/company/ethcatherders" 
+                href="https://www.linkedin.com/company/echinstitute" 
                 className="text-muted-foreground hover:text-primary"
                 target="_blank"
                 rel="noopener noreferrer"
