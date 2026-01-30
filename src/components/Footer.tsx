@@ -42,7 +42,7 @@ export function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex flex-col items-center md:items-start">
               <Link href="https://www.echinstitute.org" className="text-lg font-semibold hover:text-primary">
-                Ethereum Cat Herders
+                ECH Institute
               </Link>
               <p className="text-sm text-muted-foreground">
                 Herding Knowledge, Building Community, Homesteading Ethereum!
